@@ -1,3 +1,7 @@
 {
-    "codetour.showMarkers": false
+    "codetour.showMarkers": false,
+    "python.pythonPath": "C:\\Users\\ayool\\anaconda3\\envs\\devdatascience\\python.exe",
+    "staticWebApps.appSubpath": "/",
+    "staticWebApps.apiSubpath": "/",
+    "staticWebApps.outputSubpath": "build"
 }
